@@ -114,12 +114,6 @@ That completes the sketch of the line-labeling algorithm.
 We are now ready to implement a labeling program.
 Its glossary is in [figure 17.5](#fig-17-05).
 
-| []()                                                |
-|-----------------------------------------------------|
-| ![f17-05](images/chapter17/f17-05.jpg)              |
-| Figure 17.5: Glossary for the Line-Labeling Program |
-
-*(ed: should be a markdown table)*
 
 | Function                | Description                                                         |
 |-------------------------|---------------------------------------------------------------------|
